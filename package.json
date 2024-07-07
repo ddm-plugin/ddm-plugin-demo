@@ -1,0 +1,32 @@
+{
+  "name": "ddm-plugin-demo",
+  "version": "2.0.0",
+  "description": "一个DDM的插件示例22223444444",
+  "main": "dist/index.js",
+  "files": [
+    "index.js",
+    "logo.png"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "webpack",
+    "publish": "webpack && npm publish"
+  },
+  "keywords": [
+    "Dubbo-Desktop-Manager",
+    "ddm-plugin",
+    "ddm"
+  ],
+  "author": "qiaolin",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-loader": "^8.2.5",
+    "webpack": "^5.92.1",
+    "webpack-cli": "^5.1.4",
+    "@babel/core": "^7.24.7"
+  },
+  "dependencies": {
+    
+  }
+}

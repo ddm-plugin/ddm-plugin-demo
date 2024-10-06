@@ -7,7 +7,10 @@
   "i18nMain": "dist/i18n.js",
   "files": [
     "index.js",
-    "logo.png"
+    "logo.png",
+    "README.md",
+    "dist/**",
+    "docs/**"
   ],
   "scripts": {
     "dev": "webpack",

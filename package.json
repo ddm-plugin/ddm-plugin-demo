@@ -1,6 +1,6 @@
 {
   "name": "ddm-plugin-demo",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "一个DDM的插件示例22223444444",
   "main": "dist/index.js",
   "rendererMain": "dist/renderer.js",
